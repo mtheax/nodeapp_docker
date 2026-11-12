@@ -1,0 +1,5 @@
+aws_region    = "us-east-1"
+ami_id        = ""
+instance_type = "t3.micro"
+key_name      = "REPLACE_WITH_YOUR_KEY_PAIR_NAME"
+key_path      = "~/.ssh/REPLACE_WITH_YOUR_KEY.pem"

@@ -1,0 +1,13 @@
+node_modules
+.env
+npm-debug.log
+
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate.*
+crash.log
+
+# Keys
+*.pem
